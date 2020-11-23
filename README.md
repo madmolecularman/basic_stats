@@ -13,7 +13,7 @@ To run this package follow the next steps:
 ]$ cd [repository_name]                                           # Change into the directory you created.
 ~~~
 
-2) Open up a python specific interface or run the python command from the terminal
+2) Open up a python specific command line and navigate to the directory containing the folder
 
 
 3) Run the setup script, we call the following from the command line
@@ -23,6 +23,7 @@ To run this package follow the next steps:
 3) Import the pacakge and run the help function to see what it does
 
     import norm_testing
+    
     help(norm_testing)
     
 4) Run the script
